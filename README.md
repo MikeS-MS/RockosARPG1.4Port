@@ -1,5 +1,6 @@
 # RockosARPG Mod 1.4 Port
-This is a mod that was ported by @MikeS to 1.4 tModLoader ([original dev thread](https://forums.terraria.org/index.php?threads/rockos-arpg.41144/)).
+This is a mod that was ported by [MikeS](https://github.com/MikeS-MS) to 1.4 tModLoader (Original dev is Rockos, [original dev thread](https://forums.terraria.org/index.php?threads/rockos-arpg.41144/)).
+I have not asked if they would allow this port, but they have given the source code inside the forum thread and they have not responded to a comment from 2022, so I don't even think asking them would provide an answer. 
 Functionality may be broken, I've only fixed everything that was throwing errors and fixed the hooks/initializers that are deprecated.
 This is by no means a working version of the mod, but a good chunk of the original features are ported.
 If you'd like to completely make everything work, and/or extend the original features you can fork the repo and do it yourself.
