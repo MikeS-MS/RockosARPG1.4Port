@@ -1,0 +1,9 @@
+author = Rockos
+version = 0.93
+displayName = Rockos ARPG
+homepage = http://forums.terraria.org/index.php?threads/rockos-arpg.41144/
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

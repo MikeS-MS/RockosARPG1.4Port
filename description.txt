@@ -1,0 +1,46 @@
+0.93
+-Fixed the multiplayer drop (plague from long ago)
+-Fixed the multiplayer life bug which render player invincible. (plague from long ago too)
+-Fixed exp give in multiplayer. (Plague from the start of porting this mod.)
+
+0.92.1
+-Fixed Heartless bug.
+
+0.92
+-Fixed life leech bug for non ranged
+-Fixed draw fps drop ( I hope at least )
+-Fixed damage while heartless ( I Hope too)
+-Fixed life regen adding old life regen value
+
+
+0.91.1
+-fast fix hp reset
+
+
+
+
+This mod add more deepness to the core game. By removing the need to hunt down crystal heart. 
+
+The core of this mod is a skilltree web of 524+ passive which help you build a character as your play fit.
+
+Ui has been updated and more convinient with the option to move around the Ui itself.
+
+Also, the monster give xp so you can grind as much as you need. 
+
+More info at terraria forums.
+
+=================
+=   Features.	=
+=================
+
+-Level system for character advancement. Now farming monster is more rewardly.
+-Stat system to simule classes. Each stat affect their own set of effect on the player.
+-Giant web skill tree over 524 skill and more coming.
+-Revamped Life bar and Mana bar. Exp bar added and Item bar added.
+-Ui customizable.
+-Multiplayer support. (still some bug left due to tmodloader)
+-Easy stat set with the mouse or the numpad button.
+-Status screen for more advanced stat showed.
+-Combat text improved for the exp gain.
+-Compatible with any other creature mod.
+-OVerkill system giving more xp.
